@@ -121,24 +121,15 @@ The project improves transparency and accuracy in exam management while saving t
 
 
 ### **Output 3 – Seating Arrangement**
-<img width="1706" height="653" alt="image" src="https://github.com/user-attachments/assets/d16258d1-c3f6-4f6b-a8a6-a70270fa9c72" />
+<img width="1724" height="801" alt="Screenshot 2025-12-26 230456" src="https://github.com/user-attachments/assets/29338fa9-df01-4b76-8969-bc30b5097299" />
+
 
 Shows AI-based seating  for the students along with personalized suggestions.
 
 
 ### **Output 4 - student view page**
 
-<img width="1904" height="975" alt="image" src="https://github.com/user-attachments/assets/0db5803f-042e-4859-bafa-8b488c253784" />
-
-
-
-
-
----
-
-
-
----
+<img width="1760" height="780" alt="image" src="https://github.com/user-attachments/assets/b61f4a5a-caf5-45df-9fe9-971c1bf78afa" />
 
 ## **Results and Impact**
 The implementation of the Exam Timetable and Seat Allocation System has demonstrated significant improvements in efficiency, accuracy, and reliability compared to traditional manual processes. The system successfully automates the generation of exam schedules and seating arrangements, ensuring conflict-free allocation of students, rooms, and time slots.
